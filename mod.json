@@ -1,10 +1,7 @@
 [
   {
     "id": 127826596841874,
-    "name": "x2 Zombies"
+    "name": "x2 Zombies",
+    "description" "permanent x2 zombie"
   },
-  {
-    "id": 127826596841875,
-    "name": "Night Vision"
-  }
 ]
