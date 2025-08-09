@@ -5,6 +5,25 @@
     "description": "Permanent x2 zombie",
     "by": 3286143410
   },
+
+    {
+    "id": 120312379621037,
+    "name": "x5 Zombies",
+    "description": "Permanent x2 zombie",
+    "by": 3286143410
+  },
+    {
+    "id": 0,
+    "name": "Friendly Fire",
+    "description": "You now can attack your friends!",
+    "by": 3286143410
+  },
+      {
+    "id": 127826596841874,
+    "name": "x5 Zombies",
+    "description": "Permanent x2 zombie",
+    "by": 3286143410
+  },
   {
     "id": 0,
     "name": "30 Days",
