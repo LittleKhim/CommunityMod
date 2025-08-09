@@ -2,11 +2,13 @@
   {
     "id": 127826596841874,
     "name": "x2 Zombies",
-    "description": "Permanent x2 zombie"
+    "description": "Permanent x2 zombie",
+    "by": 3286143410
   },
   {
     "id": 0,
     "name": "30 Days",
-    "description": "More Days!"
+    "description": "More Days!",
+    "by": 3286143410
   }
 ]
